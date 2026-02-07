@@ -111,7 +111,3 @@ Tu es libre de l’utiliser, le modifier et le partager.
 
 ✨ Bon chat sécurisé à toi !
 
----
-
-Veux-tu que je t’écrive ce README directement en **Markdown prêt à mettre sur GitHub**, avec un style encore plus **visuel** (icônes, badges, etc.) ?
-
